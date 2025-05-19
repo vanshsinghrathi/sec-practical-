@@ -1,5 +1,5 @@
 #  sec-practical-
-# Create a voting system with multiple candidates. Each address can vote only once.
+## Create a voting system with multiple candidates. Each address can vote only once.
 ```
 pragma solidity ^0.8.0;
 
