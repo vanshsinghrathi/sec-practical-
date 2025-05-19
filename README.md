@@ -32,4 +32,5 @@ contract Voting {
     function totalCandidates() public view returns (uint) {
         return candidates.length;
     }
-} ```
+}
+```
