@@ -1,5 +1,5 @@
-# sec-practical-
-#Create a voting system with multiple candidates. Each address can vote only once.
+#  sec-practical-
+# Create a voting system with multiple candidates. Each address can vote only once.
 ```
 pragma solidity ^0.8.0;
 
@@ -39,7 +39,7 @@ contract Voting {
 ![image](https://github.com/user-attachments/assets/a3d22f46-14e2-4b16-9c42-8445dd170215)
 
 
-#Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.
+# Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.
 ```
 pragma solidity ^0.8.0;
 
@@ -70,7 +70,7 @@ contract StudentRecords {
 ![image](https://github.com/user-attachments/assets/33c2639e-8690-4a9d-8e27-6b7b12c93aba)
 
 
-#Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).
+# Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).
 ```
 pragma solidity ^0.8.0;
 
@@ -96,7 +96,7 @@ contract OwnerOnly {
 
 
 
-#Write a contract where people can donate Ether and the top 3 donors are tracked
+# Write a contract where people can donate Ether and the top 3 donors are tracked
 ```
 pragma solidity ^0.8.0;
 
@@ -148,7 +148,7 @@ contract TopDonors {
 ![image](https://github.com/user-attachments/assets/a054973c-9941-48af-87ee-1e198f5b3a4b)
 
 
-#Implement a simple auction system where users can place bids, and the highest bidder wins.
+# Implement a simple auction system where users can place bids, and the highest bidder wins.
 ```
 pragma solidity ^0.8.0;
 
@@ -183,7 +183,7 @@ contract SimpleAuction {
 ![image](https://github.com/user-attachments/assets/2f1e35bf-9459-450f-913c-6519c78b1ac8)
 
 
-#Create a contract that splits incoming Ether between 3 fixed addresses.
+# Create a contract that splits incoming Ether between 3 fixed addresses.
 ```pragma solidity ^0.8.0;
 
 contract EtherSplitter {
